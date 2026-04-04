@@ -5,7 +5,7 @@
 jnhjm
 ### URLs
 sccsx
-`/reset` will reset the data in the database with a load of:sdxasx
+`/reset` will reset the data in the database with a load of:sdfds test
 
 - users
 - jokes
@@ -13,7 +13,7 @@ sccsx
   
 `/feed` shows the jokes/heckles that are relevant to the current user.
 
-`/blabbers` shows a list of all other users and allows the current user to listen or ignore.
+`/blabbers` shows a list of all other users and allows the current user to listen or ignore.s
 
 `/profile` allows the current user to modify their profile.
 
